@@ -12,6 +12,7 @@ I am Nasir Uddin Ahmed
 - ⚡ Fun fact: Eat, Sleep, Code, Cricket.
 
 
+Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Turjo7)]
 
