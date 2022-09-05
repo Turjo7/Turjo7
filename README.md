@@ -13,6 +13,6 @@ I am Nasir Uddin Ahmed
 
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Turjo7)](https://github.com/Turjo7/github-profile-trophy)
 
 
