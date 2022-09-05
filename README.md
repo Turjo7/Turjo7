@@ -11,7 +11,7 @@ I am Nasir Uddin Ahmed
 - 📫 How to reach me: nahmed151086@bscse.uiu.ac.bd
 - ⚡ Fun fact: Eat, Sleep, Code, Cricket.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Turjo7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Turjo7)](https://github.com/Turjo7/github-profile-trophy)
 
 
 
